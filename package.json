@@ -16,7 +16,4 @@
     "url": "https://github.com/orlserg/socket-test-vulnerable/issues"
   },
   "homepage": "https://github.com/orlserg/socket-test-vulnerable#readme",
-  "dependencies": {
-    "@orlserg32112/socket-test-vulndep": "^1.0.11"
-  }
 }
